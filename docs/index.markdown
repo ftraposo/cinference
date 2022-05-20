@@ -6,11 +6,9 @@ nav_order: 1
 
 
 
-This is the page of the Causal Inference course in Hilary Term 2022 at the DPIR of the University of Oxford.
+Welcome to our website! 
 
-## Lectures
-
-Mondays 12:45pm - Common Room taught by Ria Ivandic (ria.ivandic@politics.ox.ac.uk)
+In this website, you will find how to conduct of the basic and more advanced statistical analyses in causal inference. 
 
 ## Labs
 
